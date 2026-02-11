@@ -225,6 +225,13 @@
       "action": "pause_uid",
       "details": "Paused UID 14295790811",
       "createdAt": "2026-02-11T11:03:21.679Z"
+    },
+    {
+      "id": "repo_1770807808268_vsvo2fnkf",
+      "userId": "admin_1",
+      "action": "pause_uid",
+      "details": "Paused UID 14295790811",
+      "createdAt": "2026-02-11T11:03:28.268Z"
     }
   ],
   "plans": [
