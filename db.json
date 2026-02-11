@@ -267,6 +267,13 @@
       "action": "login",
       "details": "User shanto logged in",
       "createdAt": "2026-02-11T10:18:04.547Z"
+    },
+    {
+      "id": "repo_1770817369313_izj2p6on2",
+      "userId": "admin_1",
+      "action": "resume_uid",
+      "details": "Resumed UID 14295790811",
+      "createdAt": "2026-02-11T13:42:49.313Z"
     }
   ],
   "plans": [
