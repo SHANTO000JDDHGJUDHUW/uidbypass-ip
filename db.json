@@ -3,12 +3,12 @@
     {
       "id": "admin_1",
       "username": "shanto",
-      "password": "$2b$10$FyryuAG8jR8XwXlPv1Q41u73QR7Z/4YglX.V/VTu8j/BuVZvU4ZIC",
+      "password": "$2b$10$OTqG111ef3O4HfJT8dzTZ.gjqOXu4ZmruHqV3F0ajPu0gAXLvX/Da",
       "isOwner": true,
       "credits": "9999999.00",
       "isActive": true,
       "createdAt": "2026-02-11T10:17:28.798Z",
-      "lastActive": "2026-02-11T14:44:48.427Z"
+      "lastActive": "2026-02-11T14:58:57.268Z"
     },
     {
       "id": "repo_1770805117022_g5a7vrsa0",
@@ -84,6 +84,55 @@
     }
   ],
   "activityLogs": [
+    {
+      "id": "repo_1770821937268_eryn0ijpe",
+      "userId": "admin_1",
+      "action": "login",
+      "details": "User shanto logged in",
+      "createdAt": "2026-02-11T14:58:57.268Z"
+    },
+    {
+      "id": "repo_1770821743888_b3h6mv9zf",
+      "userId": "admin_1",
+      "action": "bulk_pause_uid",
+      "details": "Paused all UIDs globally",
+      "createdAt": "2026-02-11T14:55:43.888Z"
+    },
+    {
+      "id": "repo_1770821613151_zebrcwlsg",
+      "userId": "admin_1",
+      "action": "pause_uid",
+      "details": "Paused UID 10150043356",
+      "createdAt": "2026-02-11T14:53:33.151Z"
+    },
+    {
+      "id": "repo_1770821590021_ksbdj5lln",
+      "userId": "admin_1",
+      "action": "bulk_resume_uid",
+      "details": "Resumed all UIDs globally",
+      "createdAt": "2026-02-11T14:53:10.021Z"
+    },
+    {
+      "id": "repo_1770821581201_clm96qhnn",
+      "userId": "admin_1",
+      "action": "bulk_pause_uid",
+      "details": "Paused all UIDs globally",
+      "createdAt": "2026-02-11T14:53:01.201Z"
+    },
+    {
+      "id": "repo_1770821277236_ppkjk4fla",
+      "userId": "admin_1",
+      "action": "bulk_resume_uid",
+      "details": "Resumed all UIDs globally",
+      "createdAt": "2026-02-11T14:47:57.236Z"
+    },
+    {
+      "id": "repo_1770821268849_gij8m686p",
+      "userId": "admin_1",
+      "action": "bulk_pause_uid",
+      "details": "Paused all UIDs globally",
+      "createdAt": "2026-02-11T14:47:48.849Z"
+    },
     {
       "id": "repo_1770821088427_vw15k3u00",
       "userId": "admin_1",
@@ -657,48 +706,6 @@
       "action": "login",
       "details": "User shanto logged in",
       "createdAt": "2026-02-11T10:18:04.547Z"
-    },
-    {
-      "id": "repo_1770821268849_gij8m686p",
-      "userId": "admin_1",
-      "action": "bulk_pause_uid",
-      "details": "Paused all UIDs globally",
-      "createdAt": "2026-02-11T14:47:48.849Z"
-    },
-    {
-      "id": "repo_1770821277236_ppkjk4fla",
-      "userId": "admin_1",
-      "action": "bulk_resume_uid",
-      "details": "Resumed all UIDs globally",
-      "createdAt": "2026-02-11T14:47:57.236Z"
-    },
-    {
-      "id": "repo_1770821581201_clm96qhnn",
-      "userId": "admin_1",
-      "action": "bulk_pause_uid",
-      "details": "Paused all UIDs globally",
-      "createdAt": "2026-02-11T14:53:01.201Z"
-    },
-    {
-      "id": "repo_1770821590021_ksbdj5lln",
-      "userId": "admin_1",
-      "action": "bulk_resume_uid",
-      "details": "Resumed all UIDs globally",
-      "createdAt": "2026-02-11T14:53:10.021Z"
-    },
-    {
-      "id": "repo_1770821613151_zebrcwlsg",
-      "userId": "admin_1",
-      "action": "pause_uid",
-      "details": "Paused UID 10150043356",
-      "createdAt": "2026-02-11T14:53:33.151Z"
-    },
-    {
-      "id": "repo_1770821743888_b3h6mv9zf",
-      "userId": "admin_1",
-      "action": "bulk_pause_uid",
-      "details": "Paused all UIDs globally",
-      "createdAt": "2026-02-11T14:55:43.888Z"
     }
   ],
   "plans": [
