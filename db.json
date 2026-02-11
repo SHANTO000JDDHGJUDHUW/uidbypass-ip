@@ -458,6 +458,13 @@
       "action": "login",
       "details": "User shanto logged in",
       "createdAt": "2026-02-11T10:18:04.547Z"
+    },
+    {
+      "id": "repo_1770820104563_zlofzfv85",
+      "userId": "admin_1",
+      "action": "bulk_pause_uid",
+      "details": "Paused all UIDs globally",
+      "createdAt": "2026-02-11T14:28:24.563Z"
     }
   ],
   "plans": [
