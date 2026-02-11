@@ -5,7 +5,7 @@
       "username": "shanto",
       "password": "$2b$10$54m09JUlz40sYU815pynCunNbYkxf6YzsSKvLtmBYhxXCykauZhja",
       "isOwner": true,
-      "credits": "9999899.00",
+      "credits": "9999999.00",
       "isActive": true,
       "createdAt": "2026-02-11T10:17:28.798Z",
       "lastActive": "2026-02-11T13:43:01.474Z"
@@ -84,6 +84,20 @@
     }
   ],
   "activityLogs": [
+    {
+      "id": "repo_1770817381474_9nu3hcqwz",
+      "userId": "admin_1",
+      "action": "create_uid",
+      "details": "Created UID 4873498758953 with Lifetime duration - Cost: $100.00",
+      "createdAt": "2026-02-11T13:43:01.474Z"
+    },
+    {
+      "id": "repo_1770817369313_izj2p6on2",
+      "userId": "admin_1",
+      "action": "resume_uid",
+      "details": "Resumed UID 14295790811",
+      "createdAt": "2026-02-11T13:42:49.313Z"
+    },
     {
       "id": "repo_1770817237519_f7wcfonm1",
       "userId": "admin_1",
@@ -279,20 +293,6 @@
       "action": "login",
       "details": "User shanto logged in",
       "createdAt": "2026-02-11T10:18:04.547Z"
-    },
-    {
-      "id": "repo_1770817369313_izj2p6on2",
-      "userId": "admin_1",
-      "action": "resume_uid",
-      "details": "Resumed UID 14295790811",
-      "createdAt": "2026-02-11T13:42:49.313Z"
-    },
-    {
-      "id": "repo_1770817381474_9nu3hcqwz",
-      "userId": "admin_1",
-      "action": "create_uid",
-      "details": "Created UID 4873498758953 with Lifetime duration - Cost: $100.00",
-      "createdAt": "2026-02-11T13:43:01.474Z"
     }
   ],
   "plans": [
