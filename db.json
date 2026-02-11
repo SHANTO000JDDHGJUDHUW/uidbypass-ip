@@ -29,8 +29,8 @@
       "accountUsername": "retertertre",
       "duration": 72,
       "cost": "15.00",
-      "status": "active",
-      "isActive": true,
+      "status": "paused",
+      "isActive": false,
       "createdAt": "2026-02-11T10:18:23.063Z",
       "expiresAt": "2026-02-14T10:18:23.063Z"
     },
@@ -465,6 +465,13 @@
       "action": "bulk_pause_uid",
       "details": "Paused all UIDs globally",
       "createdAt": "2026-02-11T14:28:24.563Z"
+    },
+    {
+      "id": "repo_1770820116314_n2e6dzyo8",
+      "userId": "admin_1",
+      "action": "bulk_resume_uid",
+      "details": "Resumed all UIDs globally",
+      "createdAt": "2026-02-11T14:28:36.314Z"
     }
   ],
   "plans": [
