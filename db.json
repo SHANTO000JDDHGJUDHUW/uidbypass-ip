@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "id": "admin_1",
+      "username": "shanto",
+      "password": "$2b$10$47P1x81k.VBUW1hc5JLArehRUPlP39jgbKPACBZq7SMEwBYdY8wae",
+      "isOwner": true,
+      "credits": "1000.00",
+      "isActive": true,
+      "createdAt": "2026-02-11T10:17:28.798Z",
+      "lastActive": "2026-02-11T10:17:28.798Z"
+    }
+  ],
+  "uids": [],
+  "activityLogs": [],
+  "plans": [
+    {
+      "id": "1",
+      "name": "1 Hour",
+      "price": "0.50",
+      "duration": 1,
+      "isActive": true,
+      "isPopular": false,
+      "createdAt": "2026-02-11T10:17:28.738Z",
+      "updatedAt": "2026-02-11T10:17:28.738Z"
+    },
+    {
+      "id": "2",
+      "name": "6 Hours",
+      "price": "2.00",
+      "duration": 6,
+      "isActive": true,
+      "isPopular": false,
+      "createdAt": "2026-02-11T10:17:28.738Z",
+      "updatedAt": "2026-02-11T10:17:28.738Z"
+    },
+    {
+      "id": "3",
+      "name": "12 Hours",
+      "price": "3.50",
+      "duration": 12,
+      "isActive": true,
+      "isPopular": true,
+      "createdAt": "2026-02-11T10:17:28.738Z",
+      "updatedAt": "2026-02-11T10:17:28.738Z"
+    },
+    {
+      "id": "4",
+      "name": "24 Hours",
+      "price": "6.00",
+      "duration": 24,
+      "isActive": true,
+      "isPopular": false,
+      "createdAt": "2026-02-11T10:17:28.738Z",
+      "updatedAt": "2026-02-11T10:17:28.738Z"
+    },
+    {
+      "id": "5",
+      "name": "3 Days",
+      "price": "15.00",
+      "duration": 72,
+      "isActive": true,
+      "isPopular": false,
+      "createdAt": "2026-02-11T10:17:28.738Z",
+      "updatedAt": "2026-02-11T10:17:28.738Z"
+    },
+    {
+      "id": "6",
+      "name": "7 Days",
+      "price": "30.00",
+      "duration": 168,
+      "isActive": true,
+      "isPopular": false,
+      "createdAt": "2026-02-11T10:17:28.738Z",
+      "updatedAt": "2026-02-11T10:17:28.738Z"
+    },
+    {
+      "id": "7",
+      "name": "Lifetime",
+      "price": "100.00",
+      "duration": -1,
+      "isActive": true,
+      "isPopular": true,
+      "createdAt": "2026-02-11T10:17:28.738Z",
+      "updatedAt": "2026-02-11T10:17:28.738Z"
+    }
+  ]
+}
