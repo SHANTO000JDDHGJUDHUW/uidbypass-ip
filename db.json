@@ -85,7 +85,7 @@
     {
       "id": "repo_1770818556296_kh607yll6",
       "userId": "admin_1",
-      "uidValue": "7465874956374932",
+      "uidValue": "23958045903",
       "accountUsername": "HHHHHHHHHHHHHH",
       "duration": -1,
       "cost": "100.00",
@@ -368,6 +368,13 @@
       "action": "create_uid",
       "details": "Created UID 7465874956374932 with Lifetime duration - Cost: $100.00",
       "createdAt": "2026-02-11T14:02:36.296Z"
+    },
+    {
+      "id": "repo_1770818566650_99ds88el1",
+      "userId": "admin_1",
+      "action": "update_uid_value",
+      "details": "Updated UID from 7465874956374932 to 23958045903",
+      "createdAt": "2026-02-11T14:02:46.650Z"
     }
   ],
   "plans": [
