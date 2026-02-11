@@ -419,6 +419,13 @@
       "action": "resume_uid",
       "details": "Resumed UID 14295790811",
       "createdAt": "2026-02-11T14:13:27.935Z"
+    },
+    {
+      "id": "repo_1770819210769_f5p6722yn",
+      "userId": "admin_1",
+      "action": "pause_uid",
+      "details": "Paused UID 14295790811",
+      "createdAt": "2026-02-11T14:13:30.769Z"
     }
   ],
   "plans": [
