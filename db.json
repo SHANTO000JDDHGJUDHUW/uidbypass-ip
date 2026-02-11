@@ -790,6 +790,13 @@
       "action": "login",
       "details": "User shanto logged in",
       "createdAt": "2026-02-11T10:18:04.547Z"
+    },
+    {
+      "id": "repo_1770826226719_hv7yntrov",
+      "userId": "admin_1",
+      "action": "bulk_resume_uid",
+      "details": "Resumed all UIDs globally",
+      "createdAt": "2026-02-11T16:10:26.719Z"
     }
   ],
   "plans": [
