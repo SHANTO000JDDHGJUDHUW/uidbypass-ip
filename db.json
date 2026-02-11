@@ -53,8 +53,8 @@
       "accountUsername": "rtyrtyrtyrt",
       "duration": -1,
       "cost": "100.00",
-      "status": "active",
-      "isActive": true,
+      "status": "paused",
+      "isActive": false,
       "createdAt": "2026-02-11T10:25:37.834Z",
       "expiresAt": "2126-02-11T10:25:37.834Z"
     },
