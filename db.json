@@ -30,7 +30,7 @@
       "duration": -1,
       "cost": "100.00",
       "status": "active",
-      "isActive": false,
+      "isActive": true,
       "createdAt": "2026-02-11T10:18:15.399Z",
       "expiresAt": "2126-02-11T10:18:15.399Z"
     },
