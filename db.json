@@ -53,7 +53,7 @@
       "accountUsername": "fgdfgdf",
       "duration": -1,
       "cost": "100.00",
-      "status": "active",
+      "status": "paused",
       "isActive": false,
       "createdAt": "2026-02-11T13:43:01.474Z",
       "expiresAt": "2126-02-11T13:43:01.474Z"
@@ -521,6 +521,13 @@
       "action": "pause_uid",
       "details": "Paused UID 10150043356",
       "createdAt": "2026-02-11T14:32:38.094Z"
+    },
+    {
+      "id": "repo_1770820363733_jlhs0o3ms",
+      "userId": "admin_1",
+      "action": "pause_uid",
+      "details": "Paused UID 650990530345-04-3",
+      "createdAt": "2026-02-11T14:32:43.733Z"
     }
   ],
   "plans": [
