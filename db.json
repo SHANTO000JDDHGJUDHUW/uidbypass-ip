@@ -444,6 +444,13 @@
       "action": "pause_uid",
       "details": "Paused UID 10150043356",
       "createdAt": "2026-02-11T14:22:17.940Z"
+    },
+    {
+      "id": "repo_1770819772179_jwiatt5e3",
+      "userId": "admin_1",
+      "action": "resume_uid",
+      "details": "Resumed UID 10150043356",
+      "createdAt": "2026-02-11T14:22:52.179Z"
     }
   ],
   "plans": [
