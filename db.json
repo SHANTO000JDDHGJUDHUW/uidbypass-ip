@@ -598,6 +598,13 @@
       "action": "bulk_resume_uid",
       "details": "Resumed all UIDs globally",
       "createdAt": "2026-02-11T14:43:56.519Z"
+    },
+    {
+      "id": "repo_1770821045812_0v7hk8e1i",
+      "userId": "admin_1",
+      "action": "bulk_pause_uid",
+      "details": "Paused all UIDs globally",
+      "createdAt": "2026-02-11T14:44:05.812Z"
     }
   ],
   "plans": [
