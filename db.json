@@ -18,7 +18,7 @@
       "credits": "2000",
       "isActive": true,
       "createdAt": "2026-02-11T10:18:37.022Z",
-      "lastActive": null
+      "lastActive": "2026-02-11T10:19:27.786Z"
     }
   ],
   "uids": [
@@ -75,6 +75,13 @@
       "action": "user_created",
       "details": "User dfsfsdfdsdsfs created by admin",
       "createdAt": "2026-02-11T10:18:37.023Z"
+    },
+    {
+      "id": "repo_1770805167786_xzzxn0g9l",
+      "userId": "repo_1770805117022_g5a7vrsa0",
+      "action": "login",
+      "details": "User dfsfsdfdsdsfs logged in",
+      "createdAt": "2026-02-11T10:19:27.786Z"
     }
   ],
   "plans": [
