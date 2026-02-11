@@ -18,7 +18,7 @@
       "credits": "1900.00",
       "isActive": true,
       "createdAt": "2026-02-11T10:18:37.022Z",
-      "lastActive": "2026-02-11T14:05:46.081Z"
+      "lastActive": "2026-02-11T14:44:25.898Z"
     }
   ],
   "uids": [
@@ -605,6 +605,13 @@
       "action": "bulk_pause_uid",
       "details": "Paused all UIDs globally",
       "createdAt": "2026-02-11T14:44:05.812Z"
+    },
+    {
+      "id": "repo_1770821065898_v54xse1de",
+      "userId": "repo_1770805117022_g5a7vrsa0",
+      "action": "login",
+      "details": "User dfsfsdfdsdsfs logged in",
+      "createdAt": "2026-02-11T14:44:25.898Z"
     }
   ],
   "plans": [
