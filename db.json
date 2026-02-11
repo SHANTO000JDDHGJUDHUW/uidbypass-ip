@@ -30,7 +30,7 @@
       "duration": 72,
       "cost": "15.00",
       "status": "active",
-      "isActive": false,
+      "isActive": true,
       "createdAt": "2026-02-11T10:18:23.063Z",
       "expiresAt": "2026-02-14T10:18:23.063Z"
     },
@@ -42,7 +42,7 @@
       "duration": -1,
       "cost": "100.00",
       "status": "active",
-      "isActive": false,
+      "isActive": true,
       "createdAt": "2026-02-11T10:55:53.947Z",
       "expiresAt": "2126-02-11T10:55:53.947Z"
     },
@@ -54,7 +54,7 @@
       "duration": -1,
       "cost": "100.00",
       "status": "active",
-      "isActive": false,
+      "isActive": true,
       "createdAt": "2026-02-11T13:43:01.474Z",
       "expiresAt": "2126-02-11T13:43:01.474Z"
     }
@@ -500,6 +500,13 @@
       "action": "bulk_pause_uid",
       "details": "Paused all UIDs globally",
       "createdAt": "2026-02-11T14:32:12.434Z"
+    },
+    {
+      "id": "repo_1770820340409_ix083finq",
+      "userId": "admin_1",
+      "action": "bulk_resume_uid",
+      "details": "Resumed all UIDs globally",
+      "createdAt": "2026-02-11T14:32:20.409Z"
     }
   ],
   "plans": [
