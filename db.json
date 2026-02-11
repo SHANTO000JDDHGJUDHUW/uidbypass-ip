@@ -9,6 +9,16 @@
       "isActive": true,
       "createdAt": "2026-02-11T10:17:28.798Z",
       "lastActive": "2026-02-11T10:18:23.063Z"
+    },
+    {
+      "id": "repo_1770805117022_g5a7vrsa0",
+      "username": "dfsfsdfdsdsfs",
+      "password": "$2b$10$Weu0aHu.rq5jCWSE443MwOVrs923ie80F1vLZNk.F1OEbIBLZmC/2",
+      "isOwner": false,
+      "credits": "2000",
+      "isActive": true,
+      "createdAt": "2026-02-11T10:18:37.022Z",
+      "lastActive": null
     }
   ],
   "uids": [
@@ -58,6 +68,13 @@
       "action": "create_uid",
       "details": "Created UID 10150043356 with 72h duration - Cost: $15.00",
       "createdAt": "2026-02-11T10:18:23.063Z"
+    },
+    {
+      "id": "repo_1770805117023_xeo2jr35t",
+      "userId": "admin_1",
+      "action": "user_created",
+      "details": "User dfsfsdfdsdsfs created by admin",
+      "createdAt": "2026-02-11T10:18:37.023Z"
     }
   ],
   "plans": [
