@@ -342,6 +342,13 @@
       "action": "bulk_user_status_update",
       "details": "Paused all users",
       "createdAt": "2026-02-11T14:02:12.634Z"
+    },
+    {
+      "id": "repo_1770818535710_t30hkqtgq",
+      "userId": "admin_1",
+      "action": "bulk_user_status_update",
+      "details": "Resumed all users",
+      "createdAt": "2026-02-11T14:02:15.710Z"
     }
   ],
   "plans": [
