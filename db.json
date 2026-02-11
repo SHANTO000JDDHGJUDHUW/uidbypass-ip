@@ -218,6 +218,13 @@
       "action": "bulk_user_status_update",
       "details": "Resumed all users",
       "createdAt": "2026-02-11T11:03:11.670Z"
+    },
+    {
+      "id": "repo_1770807801679_scmyz695q",
+      "userId": "admin_1",
+      "action": "pause_uid",
+      "details": "Paused UID 14295790811",
+      "createdAt": "2026-02-11T11:03:21.679Z"
     }
   ],
   "plans": [
