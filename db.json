@@ -3,7 +3,7 @@
     {
       "id": "admin_1",
       "username": "shanto",
-      "password": "$2b$10$Cl6I5hBUJo9Ol7XXhk99aO6UkU70AAvuGVNYu2PNYcNqLC6CqzmOO",
+      "password": "$2b$10$ePOChHG17GpnWKoYoo6g8eeYdQdSEZQNbAZ6P6fuaGRU2KaEcgCZ2",
       "isOwner": true,
       "credits": "9999999.00",
       "isActive": true,
@@ -29,8 +29,8 @@
       "accountUsername": "retertertre",
       "duration": 72,
       "cost": "15.00",
-      "status": "paused",
-      "isActive": false,
+      "status": "active",
+      "isActive": true,
       "createdAt": "2026-02-11T10:18:23.063Z",
       "expiresAt": "2026-02-14T10:18:23.063Z"
     },
@@ -41,8 +41,8 @@
       "accountUsername": "ksldjfkdsljksl",
       "duration": -1,
       "cost": "100.00",
-      "status": "paused",
-      "isActive": false,
+      "status": "active",
+      "isActive": true,
       "createdAt": "2026-02-11T10:55:53.947Z",
       "expiresAt": "2126-02-11T10:55:53.947Z"
     },
@@ -53,8 +53,8 @@
       "accountUsername": "fgdfgdf",
       "duration": -1,
       "cost": "100.00",
-      "status": "paused",
-      "isActive": false,
+      "status": "active",
+      "isActive": true,
       "createdAt": "2026-02-11T13:43:01.474Z",
       "expiresAt": "2126-02-11T13:43:01.474Z"
     },
@@ -65,8 +65,8 @@
       "accountUsername": "FGHFGHFG",
       "duration": -1,
       "cost": "100.00",
-      "status": "paused",
-      "isActive": false,
+      "status": "active",
+      "isActive": true,
       "createdAt": "2026-02-11T14:44:33.705Z",
       "expiresAt": "2126-02-11T14:44:33.705Z"
     },
@@ -77,8 +77,8 @@
       "accountUsername": "GFHFGHFGHGF",
       "duration": 72,
       "cost": "15.00",
-      "status": "paused",
-      "isActive": false,
+      "status": "active",
+      "isActive": true,
       "createdAt": "2026-02-11T14:44:41.563Z",
       "expiresAt": "2026-02-14T14:44:41.563Z"
     }
