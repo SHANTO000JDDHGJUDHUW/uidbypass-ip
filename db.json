@@ -706,6 +706,13 @@
       "action": "bulk_pause_uid",
       "details": "Paused all UIDs globally",
       "createdAt": "2026-02-11T14:59:07.075Z"
+    },
+    {
+      "id": "repo_1770821958546_rb9l7bzed",
+      "userId": "admin_1",
+      "action": "bulk_resume_uid",
+      "details": "Resumed all UIDs globally",
+      "createdAt": "2026-02-11T14:59:18.546Z"
     }
   ],
   "plans": [
