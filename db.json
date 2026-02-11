@@ -398,6 +398,13 @@
       "action": "pause_uid",
       "details": "Paused UID 14295790811",
       "createdAt": "2026-02-11T14:12:39.778Z"
+    },
+    {
+      "id": "repo_1770819185198_x2jxr846p",
+      "userId": "admin_1",
+      "action": "pause_uid",
+      "details": "Paused UID 10150043356",
+      "createdAt": "2026-02-11T14:13:05.198Z"
     }
   ],
   "plans": [
