@@ -29,7 +29,7 @@
       "accountUsername": "retertertre",
       "duration": 72,
       "cost": "15.00",
-      "status": "active",
+      "status": "paused",
       "isActive": false,
       "createdAt": "2026-02-11T10:18:23.063Z",
       "expiresAt": "2026-02-14T10:18:23.063Z"
@@ -41,7 +41,7 @@
       "accountUsername": "ksldjfkdsljksl",
       "duration": -1,
       "cost": "100.00",
-      "status": "active",
+      "status": "paused",
       "isActive": false,
       "createdAt": "2026-02-11T10:55:53.947Z",
       "expiresAt": "2126-02-11T10:55:53.947Z"
@@ -514,6 +514,13 @@
       "action": "bulk_pause_uid",
       "details": "Paused all UIDs globally",
       "createdAt": "2026-02-11T14:32:30.009Z"
+    },
+    {
+      "id": "repo_1770820358094_7b047znoq",
+      "userId": "admin_1",
+      "action": "pause_uid",
+      "details": "Paused UID 10150043356",
+      "createdAt": "2026-02-11T14:32:38.094Z"
     }
   ],
   "plans": [
