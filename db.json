@@ -190,6 +190,13 @@
       "action": "login",
       "details": "User shanto logged in",
       "createdAt": "2026-02-11T10:18:04.547Z"
+    },
+    {
+      "id": "repo_1770807548420_6i7cuuq8u",
+      "userId": "admin_1",
+      "action": "user_status_update",
+      "details": "Paused access for user dfsfsdfdsdsfs",
+      "createdAt": "2026-02-11T10:59:08.420Z"
     }
   ],
   "plans": [
