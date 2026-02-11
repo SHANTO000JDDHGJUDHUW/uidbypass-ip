@@ -678,6 +678,13 @@
       "action": "bulk_pause_uid",
       "details": "Paused all UIDs globally",
       "createdAt": "2026-02-11T14:53:01.201Z"
+    },
+    {
+      "id": "repo_1770821590021_ksbdj5lln",
+      "userId": "admin_1",
+      "action": "bulk_resume_uid",
+      "details": "Resumed all UIDs globally",
+      "createdAt": "2026-02-11T14:53:10.021Z"
     }
   ],
   "plans": [
