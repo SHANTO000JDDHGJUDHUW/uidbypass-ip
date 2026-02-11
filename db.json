@@ -211,6 +211,13 @@
       "action": "login",
       "details": "User shanto logged in",
       "createdAt": "2026-02-11T10:18:04.547Z"
+    },
+    {
+      "id": "repo_1770807791670_z1ifpbkd6",
+      "userId": "admin_1",
+      "action": "bulk_user_status_update",
+      "details": "Resumed all users",
+      "createdAt": "2026-02-11T11:03:11.670Z"
     }
   ],
   "plans": [
