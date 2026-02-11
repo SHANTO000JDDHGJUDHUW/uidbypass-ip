@@ -328,6 +328,13 @@
       "action": "user_status_update",
       "details": "Paused access for user dfsfsdfdsdsfs",
       "createdAt": "2026-02-11T14:02:02.273Z"
+    },
+    {
+      "id": "repo_1770818527305_cj5pbtyxi",
+      "userId": "admin_1",
+      "action": "user_status_update",
+      "details": "Resumed access for user dfsfsdfdsdsfs",
+      "createdAt": "2026-02-11T14:02:07.305Z"
     }
   ],
   "plans": [
