@@ -391,6 +391,13 @@
       "action": "delete_uid",
       "details": "Deleted UID 23958045903 (User: admin_1)",
       "createdAt": "2026-02-11T14:09:28.398Z"
+    },
+    {
+      "id": "repo_1770819159778_7m7y6ab8j",
+      "userId": "admin_1",
+      "action": "pause_uid",
+      "details": "Paused UID 14295790811",
+      "createdAt": "2026-02-11T14:12:39.778Z"
     }
   ],
   "plans": [
