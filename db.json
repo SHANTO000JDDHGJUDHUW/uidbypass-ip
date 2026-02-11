@@ -18,7 +18,7 @@
       "credits": "2000",
       "isActive": true,
       "createdAt": "2026-02-11T10:18:37.022Z",
-      "lastActive": "2026-02-11T10:20:28.641Z"
+      "lastActive": "2026-02-11T10:55:39.673Z"
     }
   ],
   "uids": [
@@ -157,6 +157,13 @@
       "action": "login",
       "details": "User shanto logged in",
       "createdAt": "2026-02-11T10:18:04.547Z"
+    },
+    {
+      "id": "repo_1770807339673_z692fzk3r",
+      "userId": "repo_1770805117022_g5a7vrsa0",
+      "action": "login",
+      "details": "User dfsfsdfdsdsfs logged in",
+      "createdAt": "2026-02-11T10:55:39.673Z"
     }
   ],
   "plans": [
