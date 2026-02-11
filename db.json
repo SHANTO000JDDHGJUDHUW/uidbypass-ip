@@ -335,6 +335,13 @@
       "action": "user_status_update",
       "details": "Resumed access for user dfsfsdfdsdsfs",
       "createdAt": "2026-02-11T14:02:07.305Z"
+    },
+    {
+      "id": "repo_1770818532634_7iwku0k81",
+      "userId": "admin_1",
+      "action": "bulk_user_status_update",
+      "details": "Paused all users",
+      "createdAt": "2026-02-11T14:02:12.634Z"
     }
   ],
   "plans": [
