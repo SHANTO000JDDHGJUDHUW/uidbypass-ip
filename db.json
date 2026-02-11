@@ -29,8 +29,8 @@
       "accountUsername": "retertertre",
       "duration": 72,
       "cost": "15.00",
-      "status": "paused",
-      "isActive": false,
+      "status": "active",
+      "isActive": true,
       "createdAt": "2026-02-11T10:18:23.063Z",
       "expiresAt": "2026-02-14T10:18:23.063Z"
     },
