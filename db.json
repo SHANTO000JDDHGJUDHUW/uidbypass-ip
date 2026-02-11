@@ -671,6 +671,13 @@
       "action": "bulk_resume_uid",
       "details": "Resumed all UIDs globally",
       "createdAt": "2026-02-11T14:47:57.236Z"
+    },
+    {
+      "id": "repo_1770821581201_clm96qhnn",
+      "userId": "admin_1",
+      "action": "bulk_pause_uid",
+      "details": "Paused all UIDs globally",
+      "createdAt": "2026-02-11T14:53:01.201Z"
     }
   ],
   "plans": [
