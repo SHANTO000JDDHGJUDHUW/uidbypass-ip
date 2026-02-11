@@ -3,12 +3,12 @@
     {
       "id": "admin_1",
       "username": "shanto",
-      "password": "$2b$10$lTcvl2Rp8OLhJKSCxcwoGeMWzU3Xj.LU71kq2lY.Uw3Zzqve..F/G",
+      "password": "$2b$10$Jep9GRCeZflbF0Kt4q9wYOJp1imiAETn5OetbZr2j8wBOrbh1eDY.",
       "isOwner": true,
       "credits": "9999999.00",
       "isActive": true,
       "createdAt": "2026-02-11T10:17:28.798Z",
-      "lastActive": "2026-02-11T10:20:07.088Z"
+      "lastActive": "2026-02-11T10:21:28.443Z"
     },
     {
       "id": "repo_1770805117022_g5a7vrsa0",
@@ -103,6 +103,13 @@
       "action": "login",
       "details": "User dfsfsdfdsdsfs logged in",
       "createdAt": "2026-02-11T10:20:28.641Z"
+    },
+    {
+      "id": "repo_1770805288443_0xrxvpwem",
+      "userId": "admin_1",
+      "action": "login",
+      "details": "User shanto logged in",
+      "createdAt": "2026-02-11T10:21:28.443Z"
     }
   ],
   "plans": [
