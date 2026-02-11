@@ -685,6 +685,13 @@
       "action": "bulk_resume_uid",
       "details": "Resumed all UIDs globally",
       "createdAt": "2026-02-11T14:53:10.021Z"
+    },
+    {
+      "id": "repo_1770821613151_zebrcwlsg",
+      "userId": "admin_1",
+      "action": "pause_uid",
+      "details": "Paused UID 10150043356",
+      "createdAt": "2026-02-11T14:53:33.151Z"
     }
   ],
   "plans": [
