@@ -30,7 +30,7 @@
       "duration": 72,
       "cost": "15.00",
       "status": "active",
-      "isActive": false,
+      "isActive": true,
       "createdAt": "2026-02-11T10:18:23.063Z",
       "expiresAt": "2026-02-14T10:18:23.063Z"
     },
@@ -42,7 +42,7 @@
       "duration": -1,
       "cost": "100.00",
       "status": "active",
-      "isActive": false,
+      "isActive": true,
       "createdAt": "2026-02-11T10:55:53.947Z",
       "expiresAt": "2126-02-11T10:55:53.947Z"
     },
@@ -54,12 +54,145 @@
       "duration": -1,
       "cost": "100.00",
       "status": "active",
-      "isActive": false,
+      "isActive": true,
       "createdAt": "2026-02-11T13:43:01.474Z",
       "expiresAt": "2126-02-11T13:43:01.474Z"
     }
   ],
   "activityLogs": [
+    {
+      "id": "repo_1770820835917_l4rpke82a",
+      "userId": "admin_1",
+      "action": "bulk_pause_uid",
+      "details": "Paused all UIDs globally",
+      "createdAt": "2026-02-11T14:40:35.917Z"
+    },
+    {
+      "id": "repo_1770820672799_u1ghfhf6s",
+      "userId": "admin_1",
+      "action": "bulk_pause_uid",
+      "details": "Paused all UIDs globally",
+      "createdAt": "2026-02-11T14:37:52.799Z"
+    },
+    {
+      "id": "repo_1770820536406_d7ajoa8p8",
+      "userId": "admin_1",
+      "action": "bulk_resume_uid",
+      "details": "Resumed all UIDs globally",
+      "createdAt": "2026-02-11T14:35:36.406Z"
+    },
+    {
+      "id": "repo_1770820498819_mn6ac06bc",
+      "userId": "admin_1",
+      "action": "bulk_pause_uid",
+      "details": "Paused all UIDs globally",
+      "createdAt": "2026-02-11T14:34:58.819Z"
+    },
+    {
+      "id": "repo_1770820386516_d0nsamrzv",
+      "userId": "admin_1",
+      "action": "resume_uid",
+      "details": "Resumed UID 10150043356",
+      "createdAt": "2026-02-11T14:33:06.516Z"
+    },
+    {
+      "id": "repo_1770820384130_5546h1brm",
+      "userId": "admin_1",
+      "action": "resume_uid",
+      "details": "Resumed UID 650990530345-04-3",
+      "createdAt": "2026-02-11T14:33:04.130Z"
+    },
+    {
+      "id": "repo_1770820381777_ap0qgjequ",
+      "userId": "admin_1",
+      "action": "resume_uid",
+      "details": "Resumed UID 4873498758953",
+      "createdAt": "2026-02-11T14:33:01.777Z"
+    },
+    {
+      "id": "repo_1770820374567_b23lqeb1r",
+      "userId": "admin_1",
+      "action": "bulk_resume_uid",
+      "details": "Resumed all UIDs globally",
+      "createdAt": "2026-02-11T14:32:54.567Z"
+    },
+    {
+      "id": "repo_1770820368250_v63rw3cw1",
+      "userId": "admin_1",
+      "action": "pause_uid",
+      "details": "Paused UID 4873498758953",
+      "createdAt": "2026-02-11T14:32:48.250Z"
+    },
+    {
+      "id": "repo_1770820363733_jlhs0o3ms",
+      "userId": "admin_1",
+      "action": "pause_uid",
+      "details": "Paused UID 650990530345-04-3",
+      "createdAt": "2026-02-11T14:32:43.733Z"
+    },
+    {
+      "id": "repo_1770820358094_7b047znoq",
+      "userId": "admin_1",
+      "action": "pause_uid",
+      "details": "Paused UID 10150043356",
+      "createdAt": "2026-02-11T14:32:38.094Z"
+    },
+    {
+      "id": "repo_1770820350009_d1c41khli",
+      "userId": "admin_1",
+      "action": "bulk_pause_uid",
+      "details": "Paused all UIDs globally",
+      "createdAt": "2026-02-11T14:32:30.009Z"
+    },
+    {
+      "id": "repo_1770820340409_ix083finq",
+      "userId": "admin_1",
+      "action": "bulk_resume_uid",
+      "details": "Resumed all UIDs globally",
+      "createdAt": "2026-02-11T14:32:20.409Z"
+    },
+    {
+      "id": "repo_1770820332434_uu8i4ntap",
+      "userId": "admin_1",
+      "action": "bulk_pause_uid",
+      "details": "Paused all UIDs globally",
+      "createdAt": "2026-02-11T14:32:12.434Z"
+    },
+    {
+      "id": "repo_1770820216741_dy2vw5v9a",
+      "userId": "admin_1",
+      "action": "bulk_pause_uid",
+      "details": "Paused all UIDs globally",
+      "createdAt": "2026-02-11T14:30:16.741Z"
+    },
+    {
+      "id": "repo_1770820130503_x93fvctwo",
+      "userId": "admin_1",
+      "action": "resume_uid",
+      "details": "Resumed UID 10150043356",
+      "createdAt": "2026-02-11T14:28:50.503Z"
+    },
+    {
+      "id": "repo_1770820123912_hr009wrqi",
+      "userId": "admin_1",
+      "action": "pause_uid",
+      "details": "Paused UID 10150043356",
+      "createdAt": "2026-02-11T14:28:43.912Z"
+    },
+    {
+      "id": "repo_1770820116314_n2e6dzyo8",
+      "userId": "admin_1",
+      "action": "bulk_resume_uid",
+      "details": "Resumed all UIDs globally",
+      "createdAt": "2026-02-11T14:28:36.314Z"
+    },
+    {
+      "id": "repo_1770820104563_zlofzfv85",
+      "userId": "admin_1",
+      "action": "bulk_pause_uid",
+      "details": "Paused all UIDs globally",
+      "createdAt": "2026-02-11T14:28:24.563Z"
+    },
     {
       "id": "repo_1770819793987_z6pzhebgc",
       "userId": "admin_1",
@@ -458,139 +591,6 @@
       "action": "login",
       "details": "User shanto logged in",
       "createdAt": "2026-02-11T10:18:04.547Z"
-    },
-    {
-      "id": "repo_1770820104563_zlofzfv85",
-      "userId": "admin_1",
-      "action": "bulk_pause_uid",
-      "details": "Paused all UIDs globally",
-      "createdAt": "2026-02-11T14:28:24.563Z"
-    },
-    {
-      "id": "repo_1770820116314_n2e6dzyo8",
-      "userId": "admin_1",
-      "action": "bulk_resume_uid",
-      "details": "Resumed all UIDs globally",
-      "createdAt": "2026-02-11T14:28:36.314Z"
-    },
-    {
-      "id": "repo_1770820123912_hr009wrqi",
-      "userId": "admin_1",
-      "action": "pause_uid",
-      "details": "Paused UID 10150043356",
-      "createdAt": "2026-02-11T14:28:43.912Z"
-    },
-    {
-      "id": "repo_1770820130503_x93fvctwo",
-      "userId": "admin_1",
-      "action": "resume_uid",
-      "details": "Resumed UID 10150043356",
-      "createdAt": "2026-02-11T14:28:50.503Z"
-    },
-    {
-      "id": "repo_1770820216741_dy2vw5v9a",
-      "userId": "admin_1",
-      "action": "bulk_pause_uid",
-      "details": "Paused all UIDs globally",
-      "createdAt": "2026-02-11T14:30:16.741Z"
-    },
-    {
-      "id": "repo_1770820332434_uu8i4ntap",
-      "userId": "admin_1",
-      "action": "bulk_pause_uid",
-      "details": "Paused all UIDs globally",
-      "createdAt": "2026-02-11T14:32:12.434Z"
-    },
-    {
-      "id": "repo_1770820340409_ix083finq",
-      "userId": "admin_1",
-      "action": "bulk_resume_uid",
-      "details": "Resumed all UIDs globally",
-      "createdAt": "2026-02-11T14:32:20.409Z"
-    },
-    {
-      "id": "repo_1770820350009_d1c41khli",
-      "userId": "admin_1",
-      "action": "bulk_pause_uid",
-      "details": "Paused all UIDs globally",
-      "createdAt": "2026-02-11T14:32:30.009Z"
-    },
-    {
-      "id": "repo_1770820358094_7b047znoq",
-      "userId": "admin_1",
-      "action": "pause_uid",
-      "details": "Paused UID 10150043356",
-      "createdAt": "2026-02-11T14:32:38.094Z"
-    },
-    {
-      "id": "repo_1770820363733_jlhs0o3ms",
-      "userId": "admin_1",
-      "action": "pause_uid",
-      "details": "Paused UID 650990530345-04-3",
-      "createdAt": "2026-02-11T14:32:43.733Z"
-    },
-    {
-      "id": "repo_1770820368250_v63rw3cw1",
-      "userId": "admin_1",
-      "action": "pause_uid",
-      "details": "Paused UID 4873498758953",
-      "createdAt": "2026-02-11T14:32:48.250Z"
-    },
-    {
-      "id": "repo_1770820374567_b23lqeb1r",
-      "userId": "admin_1",
-      "action": "bulk_resume_uid",
-      "details": "Resumed all UIDs globally",
-      "createdAt": "2026-02-11T14:32:54.567Z"
-    },
-    {
-      "id": "repo_1770820381777_ap0qgjequ",
-      "userId": "admin_1",
-      "action": "resume_uid",
-      "details": "Resumed UID 4873498758953",
-      "createdAt": "2026-02-11T14:33:01.777Z"
-    },
-    {
-      "id": "repo_1770820384130_5546h1brm",
-      "userId": "admin_1",
-      "action": "resume_uid",
-      "details": "Resumed UID 650990530345-04-3",
-      "createdAt": "2026-02-11T14:33:04.130Z"
-    },
-    {
-      "id": "repo_1770820386516_d0nsamrzv",
-      "userId": "admin_1",
-      "action": "resume_uid",
-      "details": "Resumed UID 10150043356",
-      "createdAt": "2026-02-11T14:33:06.516Z"
-    },
-    {
-      "id": "repo_1770820498819_mn6ac06bc",
-      "userId": "admin_1",
-      "action": "bulk_pause_uid",
-      "details": "Paused all UIDs globally",
-      "createdAt": "2026-02-11T14:34:58.819Z"
-    },
-    {
-      "id": "repo_1770820536406_d7ajoa8p8",
-      "userId": "admin_1",
-      "action": "bulk_resume_uid",
-      "details": "Resumed all UIDs globally",
-      "createdAt": "2026-02-11T14:35:36.406Z"
-    },
-    {
-      "id": "repo_1770820672799_u1ghfhf6s",
-      "userId": "admin_1",
-      "action": "bulk_pause_uid",
-      "details": "Paused all UIDs globally",
-      "createdAt": "2026-02-11T14:37:52.799Z"
-    },
-    {
-      "id": "repo_1770820835917_l4rpke82a",
-      "userId": "admin_1",
-      "action": "bulk_pause_uid",
-      "details": "Paused all UIDs globally",
-      "createdAt": "2026-02-11T14:40:35.917Z"
     }
   ],
   "plans": [
