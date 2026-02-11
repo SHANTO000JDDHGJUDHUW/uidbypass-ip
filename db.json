@@ -30,7 +30,7 @@
       "duration": -1,
       "cost": "100.00",
       "status": "active",
-      "isActive": false,
+      "isActive": true,
       "createdAt": "2026-02-11T10:18:15.399Z",
       "expiresAt": "2126-02-11T10:18:15.399Z"
     },
@@ -110,6 +110,13 @@
       "action": "login",
       "details": "User shanto logged in",
       "createdAt": "2026-02-11T10:21:28.443Z"
+    },
+    {
+      "id": "repo_1770805313929_q20lxseuo",
+      "userId": "admin_1",
+      "action": "pause_uid",
+      "details": "Paused UID 14295790811",
+      "createdAt": "2026-02-11T10:21:53.929Z"
     }
   ],
   "plans": [
