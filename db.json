@@ -41,7 +41,7 @@
       "accountUsername": "ksldjfkdsljksl",
       "duration": -1,
       "cost": "100.00",
-      "status": "paused",
+      "status": "active",
       "isActive": true,
       "createdAt": "2026-02-11T10:55:53.947Z",
       "expiresAt": "2126-02-11T10:55:53.947Z"
@@ -542,6 +542,13 @@
       "action": "bulk_resume_uid",
       "details": "Resumed all UIDs globally",
       "createdAt": "2026-02-11T14:32:54.567Z"
+    },
+    {
+      "id": "repo_1770820381777_ap0qgjequ",
+      "userId": "admin_1",
+      "action": "resume_uid",
+      "details": "Resumed UID 4873498758953",
+      "createdAt": "2026-02-11T14:33:01.777Z"
     }
   ],
   "plans": [
