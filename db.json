@@ -81,18 +81,6 @@
       "isActive": true,
       "createdAt": "2026-02-11T13:43:01.474Z",
       "expiresAt": "2126-02-11T13:43:01.474Z"
-    },
-    {
-      "id": "repo_1770818556296_kh607yll6",
-      "userId": "admin_1",
-      "uidValue": "23958045903",
-      "accountUsername": "HHHHHHHHHHHHHH",
-      "duration": -1,
-      "cost": "100.00",
-      "status": "active",
-      "isActive": true,
-      "createdAt": "2026-02-11T14:02:36.296Z",
-      "expiresAt": "2126-02-11T14:02:36.296Z"
     }
   ],
   "activityLogs": [
@@ -396,6 +384,13 @@
       "action": "pause_uid",
       "details": "Paused UID 14295790811",
       "createdAt": "2026-02-11T14:09:06.645Z"
+    },
+    {
+      "id": "repo_1770818968398_ohgl8xba9",
+      "userId": "admin_1",
+      "action": "delete_uid",
+      "details": "Deleted UID 23958045903 (User: admin_1)",
+      "createdAt": "2026-02-11T14:09:28.398Z"
     }
   ],
   "plans": [
