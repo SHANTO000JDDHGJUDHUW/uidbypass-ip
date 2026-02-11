@@ -5,10 +5,10 @@
       "username": "shanto",
       "password": "$2b$10$6tXfURe6TrhDp8XBP8mM8u6jkXpaHVcVQDznQ6xS5lRaQzvpJ/m6q",
       "isOwner": true,
-      "credits": "9999999.00",
+      "credits": "9999984.00",
       "isActive": true,
       "createdAt": "2026-02-11T10:17:28.798Z",
-      "lastActive": "2026-02-11T10:18:15.399Z"
+      "lastActive": "2026-02-11T10:18:23.063Z"
     }
   ],
   "uids": [
@@ -23,6 +23,18 @@
       "isActive": true,
       "createdAt": "2026-02-11T10:18:15.399Z",
       "expiresAt": "2126-02-11T10:18:15.399Z"
+    },
+    {
+      "id": "repo_1770805103063_7sz5abf9v",
+      "userId": "admin_1",
+      "uidValue": "10150043356",
+      "accountUsername": "retertertre",
+      "duration": 72,
+      "cost": "15.00",
+      "status": "active",
+      "isActive": true,
+      "createdAt": "2026-02-11T10:18:23.063Z",
+      "expiresAt": "2026-02-14T10:18:23.063Z"
     }
   ],
   "activityLogs": [
@@ -39,6 +51,13 @@
       "action": "create_uid",
       "details": "Created UID 14295790811 with Lifetime duration - Cost: $100.00",
       "createdAt": "2026-02-11T10:18:15.399Z"
+    },
+    {
+      "id": "repo_1770805103063_961387wpo",
+      "userId": "admin_1",
+      "action": "create_uid",
+      "details": "Created UID 10150043356 with 72h duration - Cost: $15.00",
+      "createdAt": "2026-02-11T10:18:23.063Z"
     }
   ],
   "plans": [
