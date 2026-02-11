@@ -15,10 +15,10 @@
       "username": "dfsfsdfdsdsfs",
       "password": "$2b$10$Weu0aHu.rq5jCWSE443MwOVrs923ie80F1vLZNk.F1OEbIBLZmC/2",
       "isOwner": false,
-      "credits": "1900.00",
+      "credits": "1800.00",
       "isActive": true,
       "createdAt": "2026-02-11T10:18:37.022Z",
-      "lastActive": "2026-02-11T14:44:25.898Z"
+      "lastActive": "2026-02-11T14:44:33.705Z"
     }
   ],
   "uids": [
@@ -57,6 +57,18 @@
       "isActive": false,
       "createdAt": "2026-02-11T13:43:01.474Z",
       "expiresAt": "2126-02-11T13:43:01.474Z"
+    },
+    {
+      "id": "repo_1770821073705_2v0xra5n6",
+      "userId": "repo_1770805117022_g5a7vrsa0",
+      "uidValue": "927488830",
+      "accountUsername": "FGHFGHFG",
+      "duration": -1,
+      "cost": "100.00",
+      "status": "active",
+      "isActive": true,
+      "createdAt": "2026-02-11T14:44:33.705Z",
+      "expiresAt": "2126-02-11T14:44:33.705Z"
     }
   ],
   "activityLogs": [
@@ -612,6 +624,13 @@
       "action": "login",
       "details": "User dfsfsdfdsdsfs logged in",
       "createdAt": "2026-02-11T14:44:25.898Z"
+    },
+    {
+      "id": "repo_1770821073705_rosygukgc",
+      "userId": "repo_1770805117022_g5a7vrsa0",
+      "action": "create_uid",
+      "details": "Created UID 927488830 with Lifetime duration - Cost: $100.00",
+      "createdAt": "2026-02-11T14:44:33.705Z"
     }
   ],
   "plans": [
