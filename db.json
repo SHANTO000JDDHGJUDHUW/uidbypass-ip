@@ -23,18 +23,6 @@
   ],
   "uids": [
     {
-      "id": "repo_1770805095399_or6i8u250",
-      "userId": "admin_1",
-      "uidValue": "14295790811",
-      "accountUsername": "ghfghfghfghf",
-      "duration": -1,
-      "cost": "100.00",
-      "status": "paused",
-      "isActive": false,
-      "createdAt": "2026-02-11T10:18:15.399Z",
-      "expiresAt": "2126-02-11T10:18:15.399Z"
-    },
-    {
       "id": "repo_1770805103063_7sz5abf9v",
       "userId": "admin_1",
       "uidValue": "10150043356",
@@ -45,18 +33,6 @@
       "isActive": false,
       "createdAt": "2026-02-11T10:18:23.063Z",
       "expiresAt": "2026-02-14T10:18:23.063Z"
-    },
-    {
-      "id": "repo_1770805537834_7ihlzozai",
-      "userId": "admin_1",
-      "uidValue": "927488830",
-      "accountUsername": "rtyrtyrtyrt",
-      "duration": -1,
-      "cost": "100.00",
-      "status": "paused",
-      "isActive": false,
-      "createdAt": "2026-02-11T10:25:37.834Z",
-      "expiresAt": "2126-02-11T10:25:37.834Z"
     },
     {
       "id": "repo_1770807353947_4p8mg1tmt",
@@ -447,6 +423,20 @@
       "action": "pause_uid",
       "details": "Paused UID 927488830",
       "createdAt": "2026-02-11T14:21:20.578Z"
+    },
+    {
+      "id": "repo_1770819698933_j9wqmevr1",
+      "userId": "admin_1",
+      "action": "delete_uid",
+      "details": "Deleted UID 927488830 (User: admin_1)",
+      "createdAt": "2026-02-11T14:21:38.934Z"
+    },
+    {
+      "id": "repo_1770819701373_y9p08hay2",
+      "userId": "admin_1",
+      "action": "delete_uid",
+      "details": "Deleted UID 14295790811 (User: admin_1)",
+      "createdAt": "2026-02-11T14:21:41.373Z"
     }
   ],
   "plans": [
