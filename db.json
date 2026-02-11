@@ -3,12 +3,12 @@
     {
       "id": "admin_1",
       "username": "shanto",
-      "password": "$2b$10$DgofKISDJ4b.rOSkpjJV4Oz5uO/4BQIP9bNzhpEbg8NEJOOJwg3nq",
+      "password": "$2b$10$FyryuAG8jR8XwXlPv1Q41u73QR7Z/4YglX.V/VTu8j/BuVZvU4ZIC",
       "isOwner": true,
       "credits": "9999999.00",
       "isActive": true,
       "createdAt": "2026-02-11T10:17:28.798Z",
-      "lastActive": "2026-02-11T14:20:42.636Z"
+      "lastActive": "2026-02-11T14:44:48.427Z"
     },
     {
       "id": "repo_1770805117022_g5a7vrsa0",
@@ -84,6 +84,48 @@
     }
   ],
   "activityLogs": [
+    {
+      "id": "repo_1770821088427_vw15k3u00",
+      "userId": "admin_1",
+      "action": "login",
+      "details": "User shanto logged in",
+      "createdAt": "2026-02-11T14:44:48.427Z"
+    },
+    {
+      "id": "repo_1770821081563_93dhcpzj6",
+      "userId": "repo_1770805117022_g5a7vrsa0",
+      "action": "create_uid",
+      "details": "Created UID 748758568746856 with 72h duration - Cost: $15.00",
+      "createdAt": "2026-02-11T14:44:41.563Z"
+    },
+    {
+      "id": "repo_1770821073705_rosygukgc",
+      "userId": "repo_1770805117022_g5a7vrsa0",
+      "action": "create_uid",
+      "details": "Created UID 927488830 with Lifetime duration - Cost: $100.00",
+      "createdAt": "2026-02-11T14:44:33.705Z"
+    },
+    {
+      "id": "repo_1770821065898_v54xse1de",
+      "userId": "repo_1770805117022_g5a7vrsa0",
+      "action": "login",
+      "details": "User dfsfsdfdsdsfs logged in",
+      "createdAt": "2026-02-11T14:44:25.898Z"
+    },
+    {
+      "id": "repo_1770821045812_0v7hk8e1i",
+      "userId": "admin_1",
+      "action": "bulk_pause_uid",
+      "details": "Paused all UIDs globally",
+      "createdAt": "2026-02-11T14:44:05.812Z"
+    },
+    {
+      "id": "repo_1770821036519_5q40dlmlt",
+      "userId": "admin_1",
+      "action": "bulk_resume_uid",
+      "details": "Resumed all UIDs globally",
+      "createdAt": "2026-02-11T14:43:56.519Z"
+    },
     {
       "id": "repo_1770820835917_l4rpke82a",
       "userId": "admin_1",
@@ -615,41 +657,6 @@
       "action": "login",
       "details": "User shanto logged in",
       "createdAt": "2026-02-11T10:18:04.547Z"
-    },
-    {
-      "id": "repo_1770821036519_5q40dlmlt",
-      "userId": "admin_1",
-      "action": "bulk_resume_uid",
-      "details": "Resumed all UIDs globally",
-      "createdAt": "2026-02-11T14:43:56.519Z"
-    },
-    {
-      "id": "repo_1770821045812_0v7hk8e1i",
-      "userId": "admin_1",
-      "action": "bulk_pause_uid",
-      "details": "Paused all UIDs globally",
-      "createdAt": "2026-02-11T14:44:05.812Z"
-    },
-    {
-      "id": "repo_1770821065898_v54xse1de",
-      "userId": "repo_1770805117022_g5a7vrsa0",
-      "action": "login",
-      "details": "User dfsfsdfdsdsfs logged in",
-      "createdAt": "2026-02-11T14:44:25.898Z"
-    },
-    {
-      "id": "repo_1770821073705_rosygukgc",
-      "userId": "repo_1770805117022_g5a7vrsa0",
-      "action": "create_uid",
-      "details": "Created UID 927488830 with Lifetime duration - Cost: $100.00",
-      "createdAt": "2026-02-11T14:44:33.705Z"
-    },
-    {
-      "id": "repo_1770821081563_93dhcpzj6",
-      "userId": "repo_1770805117022_g5a7vrsa0",
-      "action": "create_uid",
-      "details": "Created UID 748758568746856 with 72h duration - Cost: $15.00",
-      "createdAt": "2026-02-11T14:44:41.563Z"
     }
   ],
   "plans": [
