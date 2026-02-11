@@ -563,6 +563,13 @@
       "action": "resume_uid",
       "details": "Resumed UID 10150043356",
       "createdAt": "2026-02-11T14:33:06.516Z"
+    },
+    {
+      "id": "repo_1770820498819_mn6ac06bc",
+      "userId": "admin_1",
+      "action": "bulk_pause_uid",
+      "details": "Paused all UIDs globally",
+      "createdAt": "2026-02-11T14:34:58.819Z"
     }
   ],
   "plans": [
