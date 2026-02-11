@@ -30,7 +30,7 @@
       "duration": -1,
       "cost": "100.00",
       "status": "active",
-      "isActive": true,
+      "isActive": false,
       "createdAt": "2026-02-11T10:18:15.399Z",
       "expiresAt": "2126-02-11T10:18:15.399Z"
     },
@@ -412,6 +412,13 @@
       "action": "login",
       "details": "User shanto logged in",
       "createdAt": "2026-02-11T10:18:04.547Z"
+    },
+    {
+      "id": "repo_1770819207935_fkyi77jfw",
+      "userId": "admin_1",
+      "action": "resume_uid",
+      "details": "Resumed UID 14295790811",
+      "createdAt": "2026-02-11T14:13:27.935Z"
     }
   ],
   "plans": [
