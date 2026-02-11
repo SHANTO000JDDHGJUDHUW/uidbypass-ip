@@ -16,7 +16,7 @@
       "password": "$2b$10$Weu0aHu.rq5jCWSE443MwOVrs923ie80F1vLZNk.F1OEbIBLZmC/2",
       "isOwner": false,
       "credits": "1900.00",
-      "isActive": false,
+      "isActive": true,
       "createdAt": "2026-02-11T10:18:37.022Z",
       "lastActive": "2026-02-11T10:55:53.947Z"
     }
